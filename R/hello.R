@@ -14,5 +14,5 @@
 #   Test Package:              'Cmd + Shift + T'
 
 hello <- function(x) {
-  sin(x)+cos(x)
+  sin(x)+cos(x)+3
 }
